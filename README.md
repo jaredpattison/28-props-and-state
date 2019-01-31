@@ -18,14 +18,14 @@
 #### `app.js`
 #### `message.js`
 #### `message/index.js`
-##### Message, App
+##### Exports: Message, App
 
 ### Assignment 2
 #### `index.js`
 #### `app.js`
 #### `form.js`
 #### `form/index.js`
-##### Form, App
+##### Exports: Form, App
 
 ### Assignment 3
 #### `index.js`
@@ -33,7 +33,7 @@
 #### `form.js`
 #### `formView.js`
 #### `form/index.js`
-##### Form, FormView, App
+##### Exports: Form, FormView, App
 
 #### UML
 Link to an image of the UML for your application and response to events
